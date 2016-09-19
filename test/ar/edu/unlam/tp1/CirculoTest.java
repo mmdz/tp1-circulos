@@ -54,6 +54,8 @@ public class CirculoTest {
 		Circulo MiCirculo= new Circulo(16.6);
 		
 		assertEquals(esperado, MiCirculo.getPerimetro(),0.01);
+	
+		
 	}
 	
 }
